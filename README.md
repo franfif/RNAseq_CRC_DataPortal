@@ -1,10 +1,10 @@
 <h1 align="center">
-RNAseq_CRC
+RNAseq_GDC_DataPortal
 </h1>
 
 ## Introduction
-Welcome to RNAseq_CRC, a Gene Expression Analysis Script!<br>
-RNAseq_CRC stands for RNA sequencing in Colorectal Cancer.
+Welcome to RNAseq CRC DataPortal, a Gene Expression Analysis Script!<br>
+RNAseq CRC stands for RNA sequencing in Colorectal Cancer.
 
 This Python script was specially crafted to support cutting-edge research in molecular biology, commissioned by a dedicated Research Assistant Professor at the prestigious University of Rochester, NY.
 
