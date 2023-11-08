@@ -3,16 +3,16 @@ RNAseq_CRC
 </h1>
 
 ## Introduction
-This script is a special request for research in molecular biology, by a Research Assistant Professor 
-of the University of Rochester, NY.
-The purpose of this script is to create a file that provides open-access expression 
-levels of a gene of interest in tumor samples or corresponding normal tissue samples 
-from anonymized patients. 
+Welcome to RNAseq_CRC, a Gene Expression Analysis Script!
+RNAseq_CRC stands for RNA sequencing in Colorectal Cancer.
 
-This script makes this tedious task much 
-faster and efficient, allowing more time for meaningful research.
+This Python script was specially crafted to support cutting-edge research in molecular biology, commissioned by a dedicated Research Assistant Professor at the prestigious University of Rochester, NY.
 
-This script has been tailored to the researcher's immediate needs.
+### Script Purpose:
+The primary objective of this script is to generate a comprehensive report, offering open-access gene expression data for a specific gene of interest. It covers tumor samples and corresponding normal tissue samples from de-identified patients, facilitating vital insights into molecular biology.
+
+### Efficiency Redefined:
+This script redefines efficiency by automating the arduous process of comparing these data files. With lightning-fast data analysis and intuitive visualization, it empowers researchers to spend less time on manual tasks and more time on groundbreaking discoveries.
 
 ## Pre-requisites
 * [Git](https://git-scm.com/downloads)
