@@ -1,6 +1,6 @@
 import os
 import csv
-import io
+import re
 
 from pathlib import Path
 
@@ -59,7 +59,7 @@ def get_gene():
     while True:
         gene = input("What gene do you want to look for? ")
         confirmation = input(f'Looking for gene "{gene}"? [y/n] ')
-        if confirmation in ["y", "Y", "yes", "Yes", "YES"]:
+        if re.search("^[Yy].*", confirmation):
             return gene
 
 
