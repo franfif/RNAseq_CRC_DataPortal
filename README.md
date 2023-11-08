@@ -3,7 +3,7 @@ RNAseq_CRC
 </h1>
 
 ## Introduction
-Welcome to RNAseq_CRC, a Gene Expression Analysis Script!
+Welcome to RNAseq_CRC, a Gene Expression Analysis Script!<br>
 RNAseq_CRC stands for RNA sequencing in Colorectal Cancer.
 
 This Python script was specially crafted to support cutting-edge research in molecular biology, commissioned by a dedicated Research Assistant Professor at the prestigious University of Rochester, NY.
