@@ -1,16 +1,15 @@
 <h1 align="center">
-RNAseq_GDC_DataPortal
+RNAseq GDC DataPortal
 </h1>
 
 ## Introduction
-Welcome to RNAseq CRC DataPortal, a Gene Expression Analysis Script!<br>
-RNAseq CRC stands for RNA sequencing in Colorectal Cancer.
+Welcome to RNAseq GDC DataPortal, a Gene Expression Analysis Script!<br>
+RNAseq stands for RNA sequencing, and GDC DataPortal is the [Genomic Data Commons Portal](https://portal.gdc.cancer.gov/).
 
 This Python script was specially crafted to support cutting-edge research in molecular biology, commissioned by a dedicated Research Assistant Professor at the prestigious University of Rochester, NY.
 
 ### Script Purpose:
-The primary objective of this script is to generate a comprehensive report, offering open-access gene expression data for a specific gene of interest. It covers tumor samples and corresponding normal tissue samples from de-identified patients, facilitating vital insights into molecular biology.
-
+The primary objective of this script is to generate a comprehensive report, consolidating open-access expression data for a gene of interest. It covers tumor samples and, when available, corresponding normal tissue samples from de-identified patients, facilitating vital insights into molecular biology.
 ### Efficiency Redefined:
 This script redefines efficiency by automating the arduous process of comparing these data files. With lightning-fast data analysis and intuitive visualization, it empowers researchers to spend less time on manual tasks and more time on groundbreaking discoveries.
 
