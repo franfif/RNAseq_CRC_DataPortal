@@ -1,5 +1,9 @@
 <h1 align="center">
 RNAseq GDC DataPortal
+
+<br>
+<img alt="University of Rochester Medical Center logo" src="./static/media/URMC_Logo.jpeg" width="224px"/>
+<br/>
 </h1>
 
 ## Introduction
