@@ -51,7 +51,7 @@ $ python3 mine_PGC1a_exp_CRC_patients.py
 ```
 
 ### Follow the instructions in the script
-  - Choose the sample file of type its path.
+  - Choose the sample file or type its path.
 You should have downloaded a sample file in the previous steps.
   - Type or chose the parent folder of the lookup files
     - The parent folder is the folder that contains all the folders indicated in the sample 
